@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubmissionCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favoriteplayer">Favorit Player</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">back</string>
+    <string name="muhammad_rifqi_agustia">"Muhammad Rifqi Agustia "</string>
+    <string name="agustiarifqi_gmail_com">"agustiarifqi@gmail.com "</string>
+    <string name="search_player">Search Player</string>
+</resources>
